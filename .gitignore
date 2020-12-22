@@ -1,0 +1,6 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# Jenkins Data dir
+/jenkins_home
+
+run_jenkins.bat
